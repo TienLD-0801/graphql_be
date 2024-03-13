@@ -1,2 +1,0 @@
-npx --no-install pretty-quick --staged
-npx --no-install lint-staged
